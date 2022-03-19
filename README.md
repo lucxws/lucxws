@@ -1,8 +1,7 @@
-<h1 align="center">Hello there 👋, I'm Lucas</h1>
-<h3 align="center">An enthusiast Python developer</h3>
+<h1 align="center">Hello there 👋, I'm Lucas, a Python enthusiast</h1>
 
 
-- 🌱 I’m currently learning **Web development**
+🌱 I’m currently learning **Web development**
 
 
 <h3 align="left">Languages and Tools:</h3>
