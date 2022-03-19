@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Lucas</h1>
 <h3 align="center">A enthusiast Python developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucxws&label=Profile%20views&color=0e75b6&style=flat" alt="lucxws" /> </p>
 
 - 🌱 I’m currently learning **Web development**
 
