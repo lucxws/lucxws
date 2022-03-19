@@ -2,6 +2,7 @@
 
 
 🌱 I’m currently learning **Web development**
+👤 I'm 16 years old
 
 
 <h3 align="left">Languages and Tools:</h3>
